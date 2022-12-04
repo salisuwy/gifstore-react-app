@@ -1,8 +1,9 @@
-# Overview
+# GifStore React App
 
-This is a React app for the GifStore REST API (built in .NET Core): [Access the GifStore repo](https://github.com/salisuwy/GifStore)
+## Overview
 
-## Features include
+This is a React app for the GifStore REST API (built in .NET Core): [Access the GifStore repo](https://github.com/salisuwy/GifStore). Implemented features include:
+
 - Authentication (Login/Register)
 - Profile update (change name and password)
 - Drag and drop multi image upload with progress tracking and cancellation
@@ -11,9 +12,11 @@ This is a React app for the GifStore REST API (built in .NET Core): [Access the 
 - Unrestricted access to items marked as public
 
 ## Demo - complete app 
-![Sequence_01_AdobeExpress](https://user-images.githubusercontent.com/8425466/205522826-72ac3235-d1f4-4a16-a3cf-674c509bfea3.gif)
 
-## Libraries/Frameworks
+https://user-images.githubusercontent.com/8425466/205523182-23c38c08-025a-411c-a9e3-54c5779cd81b.mp4
+
+
+## Libraries
 - React
 - React Router (v6)
 - Tailwind CSS
