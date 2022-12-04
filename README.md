@@ -10,6 +10,9 @@ This is a React app for the GifStore REST API (built in .NET Core): [Access the 
 - Dashboard with search feature
 - Unrestricted access to items marked as public
 
+## Demo - complete app 
+![Sequence_01_AdobeExpress](https://user-images.githubusercontent.com/8425466/205522826-72ac3235-d1f4-4a16-a3cf-674c509bfea3.gif)
+
 ## Libraries/Frameworks
 - React
 - React Router (v6)
