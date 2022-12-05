@@ -11,7 +11,7 @@ This is a React app for the GifStore REST API (built in .NET Core): [Access the 
 - Dashboard with search feature
 - Unrestricted access to items marked as public
 
-## Demo - complete app 
+## Demo 
 
 https://user-images.githubusercontent.com/8425466/205523182-23c38c08-025a-411c-a9e3-54c5779cd81b.mp4
 
